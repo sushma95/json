@@ -1,30 +1,22 @@
 [
   {
     "name": "traingle",
-    "noof_sides" : "3",
-   
-    },
-  
+    "noof_sides" : 3
+  },
   {
     "name": "trapezium",
-    "noof_sides" : "4",
-    
+    "noof_sides" : 4,
     },
-  
   {
     "name": "pentagon",
-  "noof_sides" : "4",
- 
-    },
+  "noof_sides" : 4,
+ },
 {
     "name": "heptagon",
-  "noof_sides" : "7",
- 
-    },
+  "noof_sides" : 7,
+ },
 {
     "name": "hexagon",
-  "noof_sides" : "6",
- 
-    }
-  
+  "noof_sides" : 7
+}
 ]
