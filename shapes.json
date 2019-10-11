@@ -15,12 +15,12 @@
     "name": "pentagon",
   "noof_sides" : "4",
  
-    }
+    },
 {
     "name": "heptagon",
   "noof_sides" : "7",
  
-    }
+    },
 {
     "name": "hexagon",
   "noof_sides" : "6",
